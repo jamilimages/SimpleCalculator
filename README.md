@@ -6,6 +6,9 @@ A simple calculator application written in C programming.
 - Collecting user input data depending on the integer the user enters.
 - Eradicates the program if the user enters a character besides the assigned logical operators in the switch and case statements.
 
+# How to operate the simple calculator
+- Download the release version as a .ZIP file and extract the files and enter it in any C program compiler and run it in the terminal. Enjoy! :)
+
 # Here is an example: 
 ![ezgif-5-2e4c146d1fbd](https://user-images.githubusercontent.com/36749450/93843011-81a29100-fc66-11ea-9190-f415f541f45d.gif)
 

@@ -1,6 +1,6 @@
 // Jamil Matheny
 // 03.06.2020
-// Unit 1 Project - Math Practice Project
+// Math Practice Project
 
 #include <stdio.h>
 #include <stdlib.h>

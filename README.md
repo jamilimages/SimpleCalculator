@@ -7,5 +7,6 @@ A simple calculator application written in C programming.
 - Eradicates the program if the user enters a character besides the assigned logical operators in the switch and case statements.
 
 # Here is an example: 
+![ezgif-5-2e4c146d1fbd](https://user-images.githubusercontent.com/36749450/93843011-81a29100-fc66-11ea-9190-f415f541f45d.gif)
 
 
